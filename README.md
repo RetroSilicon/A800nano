@@ -85,7 +85,7 @@ Here is the project running on Tang Nano 20K:
 
 ![Tang Nano 20K with Atari XL/XE core](docs/images/tangnano_setup.jpeg)
 
-More screenshots and setup examples coming soon.
+![Game Screenshot](docs/images/a800game1.jpeg)
 
 ---
 
