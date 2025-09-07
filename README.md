@@ -7,7 +7,7 @@ This project brings the classic Atari XL/XE 8-bit computer family to the **Tang 
 It is based on and inspired by earlier works, including:
 - [AtlasFPGA/Atari800](https://github.com/AtlasFPGA/Atari800)  
 - Component implementations by **Mark Watson**  
-- Extensions and improvements contributed by **Woy**  
+- Extensions and improvements contributed by **Woj**  
 
 ---
 
@@ -79,21 +79,11 @@ For connecting a **keyboard, joystick, or gamepad**, use [**FPGA Companion**](ht
 
 ---
 
-## ROM Files and Copyright
-
-Although these systems are more than 40 years old, their system ROMs are still protected by copyright (until around **2075–2080**).
-
-- This repository does **not** include any original Atari ROMs.  
-- Please supply your own copies legally.  
-- Alternative open-source ROMs (e.g., AltirraOS) may also be used.
-
----
-
 ## Screenshots
 
 Here is the project running on Tang Nano 20K:
 
-![Tang Nano 20K with Atari XL/XE core](docs/images/tangnano_setup.jpg)
+![Tang Nano 20K with Atari XL/XE core](docs/images/tangnano_setup.jpeg)
 
 More screenshots and setup examples coming soon.
 
